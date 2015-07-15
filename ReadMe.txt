@@ -1,5 +1,5 @@
 URL of the Repository:
-https://github.com/venkateshvadala/Simple-Website-Assignment
+https://github.com/venkateshvadala/Simple-Website-Assignment/tree/Assignment2
 
 Steps:
 
